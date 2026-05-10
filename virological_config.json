@@ -28,6 +28,7 @@
     "fontSize": "8",
     "nodeLabelAnnotation": "bootstrap",
     "nodeLabelFontSize": "8",
+    "nodeLabelDecimalPlaces": "0",
     "axisShow": "reverse",
     "selectedTheme": "Monochrome"
   }
