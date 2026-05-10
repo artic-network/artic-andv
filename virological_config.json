@@ -27,7 +27,7 @@
     "fontSize": "8",
     "nodeLabelAnnotation": "bootstrap",
     "nodeLabelFontSize": "8",
-    "axisShow": "forward",
+    "axisShow": "reverse",
     "selectedTheme": "BEAST"
   }
 }
