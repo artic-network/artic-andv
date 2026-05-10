@@ -6,6 +6,7 @@
     "rtt": false,
     "dataTable": false,
     "statusMessage": false,
+    "statusSelect": false,
     "statusShare": false,
     "themeToggle": false,
     "tbFileOps": false,
