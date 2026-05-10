@@ -29,6 +29,8 @@
     "nodeLabelAnnotation": "bootstrap",
     "nodeLabelFontSize": "8",
     "nodeLabelDecimalPlaces": "0",
+    "cladeHighlightLeftEdge": "outlineNodes",
+    "cladeHighlightRightEdge": "atLabelsRight",
     "axisShow": "reverse",
     "selectedTheme": "Monochrome"
   }
